@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.bcd3d01d.chunk.css",
-    "main.js": "/portfolio/static/js/main.b1212424.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.b1212424.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.6a15d6e9.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.6a15d6e9.js.map",
-    "static/js/2.bd542a6d.chunk.js": "/portfolio/static/js/2.bd542a6d.chunk.js",
-    "static/js/2.bd542a6d.chunk.js.map": "/portfolio/static/js/2.bd542a6d.chunk.js.map",
-    "static/js/3.e5d201c0.chunk.js": "/portfolio/static/js/3.e5d201c0.chunk.js",
-    "static/js/3.e5d201c0.chunk.js.map": "/portfolio/static/js/3.e5d201c0.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.8fa7f62b.chunk.css",
+    "main.js": "/portfolio/static/js/main.dcd0497e.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.dcd0497e.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.9bf9d1cb.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.9bf9d1cb.js.map",
+    "static/js/2.fa92b952.chunk.js": "/portfolio/static/js/2.fa92b952.chunk.js",
+    "static/js/2.fa92b952.chunk.js.map": "/portfolio/static/js/2.fa92b952.chunk.js.map",
+    "static/js/3.91e96045.chunk.js": "/portfolio/static/js/3.91e96045.chunk.js",
+    "static/js/3.91e96045.chunk.js.map": "/portfolio/static/js/3.91e96045.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.bcd3d01d.chunk.css.map": "/portfolio/static/css/main.bcd3d01d.chunk.css.map",
-    "static/js/2.bd542a6d.chunk.js.LICENSE.txt": "/portfolio/static/js/2.bd542a6d.chunk.js.LICENSE.txt",
+    "static/css/main.8fa7f62b.chunk.css.map": "/portfolio/static/css/main.8fa7f62b.chunk.css.map",
+    "static/js/2.fa92b952.chunk.js.LICENSE.txt": "/portfolio/static/js/2.fa92b952.chunk.js.LICENSE.txt",
     "static/media/biobell-banner.jpeg": "/portfolio/static/media/biobell-banner.79e90399.jpeg",
     "static/media/blink-banner.png": "/portfolio/static/media/blink-banner.a22d281e.png",
     "static/media/brud-banner.png": "/portfolio/static/media/brud-banner.52b24c32.png",
@@ -21,9 +21,9 @@
     "static/media/resume-2021.06.24.dedc34bf.pdf": "/portfolio/static/media/resume-2021.06.24.dedc34bf.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.6a15d6e9.js",
-    "static/js/2.bd542a6d.chunk.js",
-    "static/css/main.bcd3d01d.chunk.css",
-    "static/js/main.b1212424.chunk.js"
+    "static/js/runtime-main.9bf9d1cb.js",
+    "static/js/2.fa92b952.chunk.js",
+    "static/css/main.8fa7f62b.chunk.css",
+    "static/js/main.dcd0497e.chunk.js"
   ]
 }
