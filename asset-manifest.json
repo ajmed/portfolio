@@ -1,24 +1,29 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.bcd3d01d.chunk.css",
-    "main.js": "/portfolio/static/js/main.8042919b.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.8042919b.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.3361e7fc.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.3361e7fc.js.map",
+    "main.js": "/portfolio/static/js/main.b1212424.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b1212424.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.6a15d6e9.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.6a15d6e9.js.map",
     "static/js/2.bd542a6d.chunk.js": "/portfolio/static/js/2.bd542a6d.chunk.js",
     "static/js/2.bd542a6d.chunk.js.map": "/portfolio/static/js/2.bd542a6d.chunk.js.map",
-    "static/js/3.53b81c1f.chunk.js": "/portfolio/static/js/3.53b81c1f.chunk.js",
-    "static/js/3.53b81c1f.chunk.js.map": "/portfolio/static/js/3.53b81c1f.chunk.js.map",
+    "static/js/3.e5d201c0.chunk.js": "/portfolio/static/js/3.e5d201c0.chunk.js",
+    "static/js/3.e5d201c0.chunk.js.map": "/portfolio/static/js/3.e5d201c0.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/main.bcd3d01d.chunk.css.map": "/portfolio/static/css/main.bcd3d01d.chunk.css.map",
     "static/js/2.bd542a6d.chunk.js.LICENSE.txt": "/portfolio/static/js/2.bd542a6d.chunk.js.LICENSE.txt",
+    "static/media/biobell-banner.jpeg": "/portfolio/static/media/biobell-banner.79e90399.jpeg",
+    "static/media/blink-banner.png": "/portfolio/static/media/blink-banner.a22d281e.png",
+    "static/media/brud-banner.png": "/portfolio/static/media/brud-banner.52b24c32.png",
+    "static/media/kid-claw-banner.jpeg": "/portfolio/static/media/kid-claw-banner.0ce18933.jpeg",
+    "static/media/lyricloud-banner.png": "/portfolio/static/media/lyricloud-banner.6a777a35.png",
     "static/media/profile-circle.png": "/portfolio/static/media/profile-circle.e20567dd.png",
     "static/media/resume-2021.06.24.dedc34bf.pdf": "/portfolio/static/media/resume-2021.06.24.dedc34bf.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.3361e7fc.js",
+    "static/js/runtime-main.6a15d6e9.js",
     "static/js/2.bd542a6d.chunk.js",
     "static/css/main.bcd3d01d.chunk.css",
-    "static/js/main.8042919b.chunk.js"
+    "static/js/main.b1212424.chunk.js"
   ]
 }
